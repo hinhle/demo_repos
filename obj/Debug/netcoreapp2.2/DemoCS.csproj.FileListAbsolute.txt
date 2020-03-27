@@ -1,0 +1,11 @@
+F:\assignments\CNPM\DemoCS\bin\Debug\netcoreapp2.2\DemoCS.deps.json
+F:\assignments\CNPM\DemoCS\bin\Debug\netcoreapp2.2\DemoCS.runtimeconfig.json
+F:\assignments\CNPM\DemoCS\bin\Debug\netcoreapp2.2\DemoCS.runtimeconfig.dev.json
+F:\assignments\CNPM\DemoCS\bin\Debug\netcoreapp2.2\DemoCS.dll
+F:\assignments\CNPM\DemoCS\bin\Debug\netcoreapp2.2\DemoCS.pdb
+F:\assignments\CNPM\DemoCS\obj\Debug\netcoreapp2.2\DemoCS.csprojAssemblyReference.cache
+F:\assignments\CNPM\DemoCS\obj\Debug\netcoreapp2.2\DemoCS.csproj.CoreCompileInputs.cache
+F:\assignments\CNPM\DemoCS\obj\Debug\netcoreapp2.2\DemoCS.AssemblyInfoInputs.cache
+F:\assignments\CNPM\DemoCS\obj\Debug\netcoreapp2.2\DemoCS.AssemblyInfo.cs
+F:\assignments\CNPM\DemoCS\obj\Debug\netcoreapp2.2\DemoCS.dll
+F:\assignments\CNPM\DemoCS\obj\Debug\netcoreapp2.2\DemoCS.pdb
