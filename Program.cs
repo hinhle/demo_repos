@@ -11,7 +11,7 @@ namespace DemoCS
             // string s = "123";
             //int y = Int32.Parse(s);
             //int y ;
-           // Int32.TryParse(s,out y);
+            // Int32.TryParse(s,out y);
             // y = Convert.ToInt32(s);
             //Console.WriteLine("y + 1 = " + (y + 1));
             //Console.WriteLine("y + 1 = {0}", y + 1);
@@ -22,7 +22,7 @@ namespace DemoCS
 
             // foreach(string i in arr)
             // {
-                //foreach dung lai khi gap phan tu rong
+            //foreach dung lai khi gap phan tu rong
             //     Console.WriteLine(i);
             // }
 
@@ -41,36 +41,37 @@ namespace DemoCS
             //     Console.WriteLine(i);
             // }
 
-          /*  SV s1 = new SV();
-            SV s2 = new SV("1","NVA", 18);
-            SV s3 = new SV(s1);*/
+            /*  SV s1 = new SV();
+              SV s2 = new SV("1","NVA", 18);
+              SV s3 = new SV(s1);*/
 
-           /* SV s = new SV {
-                MSSV = "1",
-                Name = "NVA",
-                Age = 18
-            };
-            Console.WriteLine(s.ToString());*/
+            /* SV s = new SV {
+                 MSSV = "1",
+                 Name = "NVA",
+                 Age = 18
+             };
+             Console.WriteLine(s.ToString());*/
 
             /*Console.WriteLine(s1.Show());
             Console.WriteLine(s2.Show());
             Console.WriteLine(s3.Show());*/
             QLSV db = new QLSV();
             db.CreateDB();
-           /* SV s = new SV {
+            SV s = new SV
+            {
                 MSSV = "3",
                 Name = "NVC",
                 Age = 18
             };
-            db.Remove(s);*/
-            SV s = new SV {
-                MSSV = "3",
-                Name = "NVC",
-                Age = 18
-            };
+            db.Remove(s);
+            /* SV s = new SV {
+                 MSSV = "3",
+                 Name = "NVC",
+                 Age = 18
+             };*/
             //db.Update(s,2);
-           // Console.WriteLine(db.IndexOf(s));
-           db.Sort();
+            // Console.WriteLine(db.IndexOf(s));
+            db.Sort();
             db.Show();
         }
     }
